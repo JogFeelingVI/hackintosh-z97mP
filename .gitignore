@@ -1,4 +1,4 @@
 .gitattributes
 .idea
 .git
-MacOSEFI/.idea
+.DS_Store
