@@ -1,9 +1,10 @@
-## Asus FIx z97m-plus DSDT 
+## Asus z97m-plus dsdt fix
+### hackintosh OpenCore 0.53
 
 1. iasl -da -dl -fe refs.txt DSDT.aml
-2. Refs.txt 文件相同
+2. Refs.txt 
 
-### DSDT ERROR LIST
+### dsdt repair project
 
 1. PARSREOP_ZERO
 2. Insert DTGP
@@ -14,3 +15,5 @@
 7. Return (Zero) 
 8. EHC1 -> EH01 EHC2 -> EH02
 9. Add MCHC LPC 9s Fix
+
+#### 0 Error 0 Warning
