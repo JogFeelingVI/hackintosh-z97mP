@@ -1,5 +1,5 @@
 ## Asus z97m-plus dsdt fix
-### hackintosh OpenCore 0.53
+### hackintosh OpenCore 0.54
 
 1. iasl -da -dl -fe refs.txt DSDT.aml
 2. Refs.txt 

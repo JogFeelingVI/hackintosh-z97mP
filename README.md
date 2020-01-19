@@ -1,6 +1,6 @@
 # Fixz97DSDT
 #### z97m plus DSDT Fix
-##### MacOSEFI opencore 0.53
+##### MacOSEFI opencore 0.54
 
 ###### Mac Pro (2017)
 ###### CPU 3.4 GHz 四核Intel Xeon E3 1230v3
