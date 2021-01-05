@@ -14,6 +14,7 @@
 #### Fix log 2021-01-05
 - 添加 AMD Rx 470 显卡黑苹果驱动 但几乎没作用
 - 删除没用的NvMEfix补丁
+- ALC layout-id 0700000
 #### Fix Log 2020-12-31
 - add SSDT-EHCx_OFF.aml
 - Fix USB
