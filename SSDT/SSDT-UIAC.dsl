@@ -63,7 +63,7 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "_UIAC", 0)
                       "HS13", Package()
                       {
                           "name", Buffer() { "HS13" },
-                          "UsbConnector", 255,
+                          "UsbConnector", 0,
                           "port", Buffer() { 0x0D, 0x00, 0x00, 0x00 },
                       },
                       "HS14", Package()

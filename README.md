@@ -1,15 +1,14 @@
-# Fixz97DSDT
-#### z97m plus DSDT Fix
+# Hackintosh Z97m Plus
 ##### MacOSEFI opencore 0.66
-
+----
 - iMac15,1
 - Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
-- Asus z97m-plus
+- Asus z97m-plus 2903
 - Ram 16 GB 1866 MHz DDR3
 - Radeon RX 470/570 4 GB
 - Nvme SSD 256Gb Lexar SSD Media Catalina
 - SATA SSD 240Gb TOSHIBA-TR200 Media
-1 SATA HDD ST1000DM003-1ER162 Media
+- SATA HDD ST1000DM003-1ER162 Media
 
 
 ##### Fix log 2021-02-04
