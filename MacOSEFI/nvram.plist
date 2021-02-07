@@ -76,39 +76,11 @@
 			<data>
 			uAs=
 			</data>
-			<key>SystemAudioVolume</key>
-			<data>
-			Rg==
-			</data>
-			<key>_kdp_ipstr</key>
-			<data>
-			MTkyLjE2OC4xLjI0MQ==
-			</data>
-			<key>bluetoothActiveControllerInfo</key>
-			<data>
-			iYKsBQAAAACDFGxACKOgJQ==
-			</data>
-			<key>bluetoothInternalControllerInfo</key>
-			<data>
-			iYKsBQAAgxRsQAijoCU=
-			</data>
 			<key>boot-args</key>
 			<string>-v keepsyms=1 debug=0x100</string>
 			<key>csr-active-config</key>
 			<data>
 			/wcAAA==
-			</data>
-			<key>fmm-computer-name</key>
-			<data>
-			5Y2i6YaS5a6H55qEaU1hYyBQcm8=
-			</data>
-			<key>prev-lang:kbd</key>
-			<data>
-			ZW4tVVM6MAA=
-			</data>
-			<key>run-efi-updater</key>
-			<data>
-			Tm8A
 			</data>
 		</dict>
 		<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>

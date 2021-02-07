@@ -13,7 +13,7 @@
 
 ##### Fix log 2021-02-04
 - PciRoot(0x0)/Pci(0x2,0x0) iGpu
-- add NvMEfix 补丁
+- Remove NvMEfix 补丁
 - del SMCSuperIO.kext SMCProcessor.kext
 - ALC layout-id 0700000
 - Fix Game_keyboard
