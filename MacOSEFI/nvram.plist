@@ -76,18 +76,61 @@
 			<data>
 			uAs=
 			</data>
+			<key>LocationServicesEnabled</key>
+			<data>
+			AQ==
+			</data>
+			<key>SystemAudioVolume</key>
+			<data>
+			Rg==
+			</data>
+			<key>_kdp_ipstr</key>
+			<data>
+			MTkyLjE2OC4xLjI0MQ==
+			</data>
+			<key>bluetoothActiveControllerInfo</key>
+			<data>
+			iYKsBQAAAACDFGxACKOgJQ==
+			</data>
+			<key>bluetoothInternalControllerInfo</key>
+			<data>
+			iYKsBQAAgxRsQAijoCU=
+			</data>
 			<key>boot-args</key>
-			<string>-v keepsyms=1 debug=0x100</string>
+			<string>-v keepsyms=1 debug=0x100 brcmfx-driver=2</string>
 			<key>csr-active-config</key>
 			<data>
 			/wcAAA==
 			</data>
+			<key>fmm-computer-name</key>
+			<data>
+			5Y2i6YaS5a6H55qEaU1hYyBQcm8=
+			</data>
+			<key>prev-lang:kbd</key>
+			<data>
+			ZW4tVVM6MAA=
+			</data>
+			<key>run-efi-updater</key>
+			<data>
+			Tm8A
+			</data>
 		</dict>
 		<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
 		<dict>
+			<key>Boot0080</key>
+			<data>
+			AQAAABQBQwBhAHQAYQBsAGkAbgBhAAAAAgEMANBBAwoAAAAAAQEG
+			AAAcAQEGAAAAAxcQAAEAAAAAAAAAAAAAAAQBKgACAAAAKEAGAAAA
+			AABg8sgdAAAAAOp7Mq2h/4NLpx4DKkerSAsCAgQDJAD3/HS+fAvz
+			SZFHAfQELmhCAt1TuNEel0GKBGihy07+kAQEmgBcADIAQwA2AEQA
+			QwBCAEMAMwAtADEARQBGAEQALQA0ADQARAAxAC0AOQAyAEYAMAAt
+			ADYARABGADgAMgA3AEQARQBCADcANwA1AFwAUwB5AHMAdABlAG0A
+			XABMAGkAYgByAGEAcgB5AFwAQwBvAHIAZQBTAGUAcgB2AGkAYwBl
+			AHMAXABiAG8AbwB0AC4AZQBmAGkAAAB//wQA
+			</data>
 			<key>BootOrder</key>
 			<data>
-			AQACAAMA
+			gAA=
 			</data>
 		</dict>
 	</dict>
