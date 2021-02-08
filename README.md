@@ -1,5 +1,5 @@
 # Hackintosh Z97m Plus
-##### MacOSEFI opencore 0.66
+##### MacOS EFI opencore 0.66
 ----
 - iMac15,1
 - Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
@@ -10,13 +10,16 @@
 - SATA SSD 240Gb TOSHIBA-TR200 Media
 - SATA HDD ST1000DM003-1ER162 Media
 
+##### Bios Setting
+- /bios/hackintosh_set.CMO Load to MB
+- USB Format DOS_FAT_32
 
-##### Fix log 2021-02-04
-- PciRoot(0x0)/Pci(0x2,0x0) iGpu
-- Remove NvMEfix 补丁
-- del SMCSuperIO.kext SMCProcessor.kext
-- ALC layout-id 0700000
-- Fix Game_keyboard
+##### Fix log 2021-02-08
+- 核显 独显驱动 协同工作
+- Lexar NM500 无需 NVMeFix
+- 使用这个ALCID alc-layout-id 0700000
+- Fix Game_keyboard Err
+- Fix ARPT Err AirportBrcmFixup.kext
 - Use nvram.plist
 
 ##### Read Tutorials
