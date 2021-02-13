@@ -1,0 +1,102 @@
+Blacklist:
+411111f0 400000f0 CD at Int ATAPI
+Removed Nodes: 0x1c 0x1e 0x1f 
+Checking 71c Associations
+
+Current Associations
+ 01171c30 = 3 
+ 01271c00 = 1  note: Changed 0 to 1
+ 01471c10 = 1 
+ 01571c12 = 1 
+ 01671c11 = 1 
+ 01771c14 = 1 
+ 01871c50 = 5 
+ 01971c60 = 6 
+ 01a71c5f = 5 
+ 01b71c20 = 2 
+ 01d71c29 = 2 
+
+  Used associations = 3 1 1 1 1 1 5 6 5 2 2
+Unused associations = 4 7 8 9 a b c d e
+
+Correcting duplicate associations
+
+Checking if 3 already exists in: 1 1 1 1 1 5 6 5 2 2 
+   no duplicate found
+Checking if 1 already exists in: 3 1 1 1 1 5 6 5 2 2 
+   duplicate found - Is this the first time we've seen this association?
+   yes - ignoring
+Checking if 1 already exists in: 3 1 1 1 1 5 6 5 2 2 
+   duplicate found - Is this the first time we've seen this association?
+   no - replacing association with: 4
+Checking if 1 already exists in: 3 1 4 1 1 5 6 5 2 2 
+   duplicate found - Is this the first time we've seen this association?
+   no - replacing association with: 7
+Checking if 1 already exists in: 3 1 4 7 1 5 6 5 2 2 
+   duplicate found - Is this the first time we've seen this association?
+   no - replacing association with: 8
+Checking if 1 already exists in: 3 1 4 7 8 5 6 5 2 2 
+   duplicate found - Is this the first time we've seen this association?
+   no - replacing association with: 9
+Checking if 5 already exists in: 3 1 4 7 8 9 6 5 2 2 
+   duplicate found - Is this the first time we've seen this association?
+   yes - ignoring
+Checking if 6 already exists in: 3 1 4 7 8 9 5 5 2 2 
+   no duplicate found
+Checking if 5 already exists in: 3 1 4 7 8 9 5 6 2 2 
+   duplicate found - Is this the first time we've seen this association?
+   no - replacing association with: a
+Checking if 2 already exists in: 3 1 4 7 8 9 5 6 a 2 
+   duplicate found - Is this the first time we've seen this association?
+   yes - ignoring
+Checking if 2 already exists in: 3 1 4 7 8 9 5 6 a 2 
+   duplicate found - Is this the first time we've seen this association?
+   no - replacing association with: b
+
+New 71c Associations
+ Before      After
+--------------------------------------------------
+01171c30   01171c30  01171d01  01171e46  01171f90
+01271c00   01271c00  01271d00  01271e13  01271f40
+01471c10   01471c40  01471d40  01471e01  01471f01
+01571c12   01571c70  01571d10  01571e01  01571f01
+01671c11   01671c80  01671d60  01671e01  01671f01
+01771c14   01771c90  01771d20  01771e01  01771f01
+01871c50   01871c50  01871d90  01871ea1  01871f01
+01971c60   01971c60  01971d90  01971ea1  01971f02
+01a71c5f   01a71ca0  01a71d30  01a71e81  01a71f01
+01b71c20   01b71c20  01b71d40  01b71e21  01b71f02
+01d71c29   01d71cb0  01d71de6  01d71e47  01d71f40
+
+Reset 71d Misc to 0
+New 71d Associations
+ Before                After
+--------------------------------------------------
+01171d01   01171c30  01171d00  01171e46  01171f90
+01271d00   01271c00  01271d00  01271e13  01271f40
+01471d40   01471c40  01471d40  01471e01  01471f01
+01571d10   01571c70  01571d10  01571e01  01571f01
+01671d60   01671c80  01671d60  01671e01  01671f01
+01771d20   01771c90  01771d20  01771e01  01771f01
+01871d90   01871c50  01871d90  01871ea1  01871f01
+01971d90   01971c60  01971d90  01971ea1  01971f02
+01a71d30   01a71ca0  01a71d30  01a71e81  01a71f01
+01b71d40   01b71c20  01b71d40  01b71e21  01b71f02
+01d71de6   01d71cb0  01d71de0  01d71e47  01d71f40
+
+Correct 71f 02 FP to 01
+New 71f Associations
+ Before                                    After
+--------------------------------------------------
+01171d01   01171c30  01171d00  01171e46  01171f90
+01271d00   01271c00  01271d00  01271e13  01271f40
+01471d40   01471c40  01471d40  01471e01  01471f01
+01571d10   01571c70  01571d10  01571e01  01571f01
+01671d60   01671c80  01671d60  01671e01  01671f01
+01771d20   01771c90  01771d20  01771e01  01771f01
+01871d90   01871c50  01871d90  01871ea1  01871f01
+01971d90   01971c60  01971d90  01971ea1  01971f01
+01a71d30   01a71ca0  01a71d30  01a71e81  01a71f01
+01b71d40   01b71c20  01b71d40  01b71e21  01b71f01
+01d71de6   01d71cb0  01d71de0  01d71e47  01d71f40
+ 

@@ -1,0 +1,42 @@
+
+Verbs from Linux Codec Dump File: ./codec#0
+
+Codec: Realtek ALC887-VD   Address: 0   DevID: 283904135 (0x10ec0887)
+
+   Jack   Color  Description                  Node     PinDefault             Original Verbs
+--------------------------------------------------------------------------------------------------------
+Digital Unknown  SPDIF Out at Int N/A        17 0x11   0x90460130   01171c30 01171d01 01171e46 01171f90
+  ATAPI Unknown  Speaker at Ext N/A          18 0x12   0x40130000   01271c00 01271d00 01271e13 01271f40
+    1/8   Green  Line Out at Ext Rear        20 0x14   0x01014010   01471c10 01471d40 01471e01 01471f01
+    1/8   Black  Line Out at Ext Rear        21 0x15   0x01011012   01571c12 01571d10 01571e01 01571f01
+ Line Out at Ext Rear    0x16 0x16                        16867345 01671c11 01671d60     01671e01 01671f01  
+    1/8    Grey  Line Out at Ext Rear        23 0x17   0x01012014   01771c14 01771d20 01771e01 01771f01
+ Mic at Ext Rear    0x18 0x18                        27365456 01871c50 01871d90     01871ea1 01871f01  
+ Mic at Ext Front    0x19 0x19                        44142688 01971c60 01971d90     01971ea1 01971f02  
+ Line In at Ext Rear    0x1a 0x1a                        25243743 01a71c5f 01a71d30     01a71e81 01a71f01  
+ HP Out at Ext Front    0x1b 0x1b                        35733536 01b71c20 01b71d40     01b71e21 01b71f02  
+    1/8   Black  Speaker at Ext Rear         28 0x1c   0x411111f0   01c71cf0 01c71d11 01c71e11 01c71f41
+ Analog   White  SPDIF Out at Ext N/A        29 0x1d   0x4047e629   01d71c29 01d71de6 01d71e47 01d71f40
+    1/8   Black  Speaker at Ext Rear         30 0x1e   0x411111f0   01e71cf0 01e71d11 01e71e11 01e71f41
+    1/8   Black  Speaker at Ext Rear         31 0x1f   0x411111f0   01f71cf0 01f71d11 01f71e11 01f71f41
+--------------------------------------------------------------------------------------------------------
+
+
+   Jack   Color  Description                  Node     PinDefault             Modified Verbs
+--------------------------------------------------------------------------------------------------------
+Digital Unknown  SPDIF Out at Int N/A        17 0x11   0x90460130   01171c30 01171d00 01171e46 01171f90
+  ATAPI Unknown  Speaker at Ext N/A          18 0x12   0x40130000   01271c00 01271d00 01271e13 01271f40
+    1/8   Green  Line Out at Ext Rear        20 0x14   0x01014010   01471c40 01471d40 01471e01 01471f01
+    1/8   Black  Line Out at Ext Rear        21 0x15   0x01011012   01571c70 01571d10 01571e01 01571f01
+ Line Out at Ext Rear    0x16 0x16                        16867345 01671c80 01671d60     01671e01 01671f01  
+    1/8    Grey  Line Out at Ext Rear        23 0x17   0x01012014   01771c90 01771d20 01771e01 01771f01
+ Mic at Ext Rear    0x18 0x18                        27365456 01871c50 01871d90     01871ea1 01871f01  
+ Mic at Ext Front    0x19 0x19                        44142688 01971c60 01971d90     01971ea1 01971f01  
+ Line In at Ext Rear    0x1a 0x1a                        25243743 01a71ca0 01a71d30     01a71e81 01a71f01  
+ HP Out at Ext Front    0x1b 0x1b                        35733536 01b71c20 01b71d40     01b71e21 01b71f01  
+ Analog   White  SPDIF Out at Ext N/A        29 0x1d   0x4047e629   01d71cb0 01d71de0 01d71e47 01d71f40
+--------------------------------------------------------------------------------------------------------
+
+Modified Verbs in One Line: 01171c30 01171d00 01171e46 01171f90 01271c00 01271d00 01271e13 01271f40 01471c40 01471d40 01471e01 01471f01 01571c70 01571d10 01571e01 01571f01 01671c80 01671d60 01671e01 01671f01 01771c90 01771d20 01771e01 01771f01 01871c50 01871d90 01871ea1 01871f01 01971c60 01971d90 01971ea1 01971f01 01a71ca0 01a71d30 01a71e81 01a71f01 01b71c20 01b71d40 01b71e21 01b71f01 01d71cb0 01d71de0 01d71e47 01d71f40
+--------------------------------------------------------------------------------------------------------
+
