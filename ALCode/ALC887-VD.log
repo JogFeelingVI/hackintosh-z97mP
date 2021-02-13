@@ -28,7 +28,7 @@ Digital Unknown  SPDIF Out at Int N/A        17 0x11   0x90460130   01171c30 011
   ATAPI Unknown  Speaker at Ext N/A          18 0x12   0x40130000   01271c00 01271d00 01271e13 01271f40
     1/8   Green  Line Out at Ext Rear        20 0x14   0x01014010   01471c40 01471d40 01471e01 01471f01
     1/8   Black  Line Out at Ext Rear        21 0x15   0x01011012   01571c70 01571d10 01571e01 01571f01
- Line Out at Ext Rear    0x16 0x16                        16867345 01671c80 01671d60     01671e01 01671f01  
+    Line Out at Ext Rear    0x16 0x16                        16867345 01671c80 01671d60     01671e01 01671f01  
     1/8    Grey  Line Out at Ext Rear        23 0x17   0x01012014   01771c90 01771d20 01771e01 01771f01
  Mic at Ext Rear    0x18 0x18                        27365456 01871c50 01871d90     01871ea1 01871f01  
  Mic at Ext Front    0x19 0x19                        44142688 01971c60 01971d90     01971ea1 01971f01  
