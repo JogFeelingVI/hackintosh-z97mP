@@ -15,12 +15,13 @@
 - USB Format DOS_FAT_32
 
 ##### Fix log 2021-02-08
+- Close ALL ASPM
 - 核显 独显驱动 协同工作
 - Lexar NM500 无需 NVMeFix
 - 使用这个ALCID alc-layout-id 0700000
 - Fix Game_keyboard Err
 - Fix ARPT Err AirportBrcmFixup.kext
-- Use nvram.plist
+- En nvram.plist
 
 ##### Read Tutorials
 - [OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html#booting-the-opencore-usb)
