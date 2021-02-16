@@ -14,6 +14,14 @@
 - /bios/hackintosh_set.CMO Load to MB
 - USB Format DOS_FAT_32
 
+##### File and folder description
+- ALCode applealc Related documents
+- bios asus z97 bios shetting
+- GeekBench hackintosh GeekBench5 Screenshot
+- MacOS-EFI hackintosh opencore EFI
+- SSDT hackintosh opencore ssdt-hotpach
+- table copy to linux DSDT table
+
 ##### Fix log 2021-02-08
 - Close ALL ASPM
 - 核显 独显驱动 协同工作
