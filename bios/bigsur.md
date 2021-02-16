@@ -6,7 +6,7 @@
 > ##### Background
 > Reddit post here starts to question it as Haswell in general but seemed more an issue with ASUS Z97 boards. A comment in that thread led me to Vit9696 saying fix your NVRAM. All other paths led to devs are aware and it's an macOS bug or giving up and transplanting the installation by using another machine. Well I ain't having none of that, Vit9696 said fix nvram, so I fixed it.
 
-###### 详细阅读 参考资料[1]
+###### 详细阅读 参考资料[1] 切放弃升级至 [Big Sur]
 
 ##### Fix Z97 BIOS 
 - 2014/10/17 will have added the whitelist.
