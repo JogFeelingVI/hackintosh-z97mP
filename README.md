@@ -10,6 +10,8 @@
 - SATA SSD 240Gb TOSHIBA-TR200 Media
 - SATA HDD ST1000DM003-1ER162 Media
 
+##### cinebench Test video
+- https://youtu.be/uKI_tC_oURY
 ##### Bios Setting
 - /bios/hackintosh_set.CMO Load to MB
 - USB Format DOS_FAT_32
