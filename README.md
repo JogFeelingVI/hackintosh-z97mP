@@ -1,5 +1,5 @@
 # Hackintosh Z97m Plus
-##### MacOS EFI opencore 0.66
+##### MacOS EFI opencore 0.68
 ----
 - iMac15,1
 - Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
