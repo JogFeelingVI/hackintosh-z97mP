@@ -32,7 +32,6 @@
 - Fix Game_keyboard Err
 - Fix ARPT Err AirportBrcmFixup.kext
 - En nvram.plist
-
 ##### Read Tutorials
 - [OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html#booting-the-opencore-usb)
 - [Xjn`s Blog](https://blog.xjn819.com/?p=543)

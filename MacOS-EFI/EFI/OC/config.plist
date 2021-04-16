@@ -502,7 +502,7 @@
 			<key>PasswordSalt</key>
 			<data></data>
 			<key>ScanPolicy</key>
-			<integer>17760515</integer>
+			<integer>27989251</integer>
 			<key>SecureBootModel</key>
 			<string>Default</string>
 			<key>Vault</key>
@@ -520,7 +520,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Name</key>
-				<string>CleanNvram.efi</string>
+				<string>CleanNvram</string>
 				<key>Path</key>
 				<string>CleanNvram.efi</string>
 				<key>RealPath</key>
@@ -538,7 +538,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Name</key>
-				<string>OpenShell.efi</string>
+				<string>OpenShell</string>
 				<key>Path</key>
 				<string>OpenShell.efi</string>
 				<key>RealPath</key>
@@ -556,7 +556,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Name</key>
-				<string>ResetSystem.efi</string>
+				<string>ResetSystem</string>
 				<key>Path</key>
 				<string>ResetSystem.efi</string>
 				<key>RealPath</key>
