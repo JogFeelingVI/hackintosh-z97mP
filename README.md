@@ -1,5 +1,5 @@
 # Hackintosh Z97m Plus
-##### MacOS EFI opencore 0.68
+##### MacOS EFI opencore 0.68 & 0.72
 ----
 - iMac15,1
 - Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
@@ -24,15 +24,9 @@
 - SSDT hackintosh opencore ssdt-hotpach
 - table copy to linux DSDT table
 
-##### Fix log 2021-02-08
-- Close ALL ASPM
-- 核显 独显驱动 协同工作
-- Lexar NM500 无需 NVMeFix
-- 使用这个ALCID alc-layout-id 0700000
-- Fix Game_keyboard Err
-- Fix ARPT Err AirportBrcmFixup.kext
-- En nvram.plist
 ##### Read Tutorials
 - [OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html#booting-the-opencore-usb)
 - [Xjn`s Blog](https://blog.xjn819.com/?p=543)
 - [daliansky](https://blog.daliansky.net)
+- [USBmaps](https://github.com/corpnewt/USBMap)
+- [USBToolbox](https://github.com/USBToolBox/tool)
