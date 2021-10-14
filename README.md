@@ -1,5 +1,5 @@
 # Hackintosh Z97m Plus
-##### MacOS EFI opencore 0.68 & 0.72 % 0.74
+##### MacOS EFI opencore 0.72 & 0.74
 ----
 - iMac15,1
 - Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
@@ -15,10 +15,14 @@
 ##### Bios Setting
 - /bios/hackintosh_set.CMO Load to MB
 - USB Format DOS_FAT_32
+- Exp `diskutil partitionDisk /dev/disk4 1 MBR FAT32 WINPE 0`
+
+##### ASL EDIT
+- QtiASL
 
 ##### File and folder description
 - ALCode applealc Related documents
-- bios asus z97 bios shetting
+- bios asus z97 bios setting
 - GeekBench hackintosh GeekBench5 Screenshot
 - MacOS-EFI hackintosh opencore EFI
 - SSDT hackintosh opencore ssdt-hotpach
